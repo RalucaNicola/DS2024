@@ -1,5 +1,3 @@
-# 2024 Esri Developer Summit Resources
-
 ## Unveiling the Magic: The Secrets Behind 10 Amazing Web Apps
 Wednesday, Mar 13 10:30 AM - 11:30 AM PDT
 
