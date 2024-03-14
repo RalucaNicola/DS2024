@@ -1,5 +1,11 @@
+## 3D Visualization
+
+- Extruded buildings in Paris [Code](https://github.com/RalucaNicola/JSAPI_demos/blob/main/extrude-buildings-paris/index.html), [Live demo](https://ralucanicola.github.io/JSAPI_demos/extrude-buildings-paris/)
+- San Francisco buildings [Code](https://github.com/RalucaNicola/JSAPI_demos/tree/main/sanfrancisco-buildings), [Live demo](https://ralucanicola.github.io/JSAPI_demos/sanfrancisco-buildings/)
+- Geology - voxel layer [Code](https://github.com/RalucaNicola/geology-darmstadt), [Live demo](https://geoxc-apps4.bd.esri.com/geology-darmstadt/)
+- Playful globe [Code](https://github.com/RalucaNicola/JSAPI_demos/tree/main/low-poly-globe), [Live demo](https://ralucanicola.github.io/JSAPI_demos/low-poly-globe/)
+
 ## Unveiling the Magic: The Secrets Behind 10 Amazing Web Apps
-Wednesday, Mar 13 10:30 AM - 11:30 AM PDT
 
 - Global carbon dioxide [Code](https://github.com/RalucaNicola/JSAPI_demos/tree/main/carbon-dioxide), [Live demo](https://ralucanicola.github.io/JSAPI_demos/carbon-dioxide)
 - Satellite Explorer [Code](https://github.com/RalucaNicola/satellite-explorer), [Live demo](https://geoxc-apps.bd.esri.com/space/satellite-explorer/)
@@ -7,9 +13,4 @@ Wednesday, Mar 13 10:30 AM - 11:30 AM PDT
 - Cambridge Watercolor [Code](https://github.com/RalucaNicola/JSAPI_demos/tree/main/cambridge-watercolor), [Live demo](https://ralucanicola.github.io/JSAPI_demos/cambridge-watercolor/)
 - Five Deeps [Code](https://github.com/RalucaNicola/five-deeps), [Live demo](https://geoxc-apps4.bd.esri.com/five-deeps/)
 
-## 3D Visualization
 
-- Extruded buildings in Paris [Code](https://github.com/RalucaNicola/JSAPI_demos/blob/main/extrude-buildings-paris/index.html), [Live demo]([https://ralucanicola.github.io/JSAPI_demos/](https://ralucanicola.github.io/JSAPI_demos/extrude-buildings-paris/)https://ralucanicola.github.io/JSAPI_demos/extrude-buildings-paris/)
-- San Francisco buildings [Code](https://github.com/RalucaNicola/JSAPI_demos/tree/main/sanfrancisco-buildings), [Live demo](https://ralucanicola.github.io/JSAPI_demos/sanfrancisco-buildings/)
-- Geology - voxel layer [Code](https://github.com/RalucaNicola/geology-darmstadt), [Live demo](https://geoxc-apps4.bd.esri.com/geology-darmstadt/)
-- Playful globe [Code](https://github.com/RalucaNicola/JSAPI_demos/tree/main/low-poly-globe), [Live demo](https://ralucanicola.github.io/JSAPI_demos/low-poly-globe/)
